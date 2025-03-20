@@ -101,7 +101,7 @@ A 3D visualization of the PCA-transformed data.
 ![3D PCA Projection](images/figure_11.png)
 
 For an interactive version, open:  
-➡️ [3D PCA Projection (Interactive)](pca_3d_plot.html)
+➡️ [3D PCA Projection (Interactive)](docs/pca_3d_plot.html)
 
 ### Pairwise Relationships of PCA Components
 Pairplot showing the relationships among principal components, colored by shape.
@@ -110,7 +110,7 @@ Pairplot showing the relationships among principal components, colored by shape.
 ![Pairwise PCA Components](images/figure_10.png)
 
 For an interactive version, open:  
-➡️ [Pairplot Interactive](pairplot_interactive.html)
+➡️ [Pairplot Interactive](docs/pairplot_interactive.html)
 
 ---
 
