@@ -103,7 +103,7 @@ A 3D visualization of the PCA-transformed data.
 For an interactive version, open:  
 ➡️ [3D PCA Projection (Interactive)](https://bobovski66.github.io/NUFORC_Analysis/pca_3d_plot.html)
 
-)
+
 
 ### Pairwise Relationships of PCA Components
 Pairplot showing the relationships among principal components, colored by shape.
@@ -114,7 +114,7 @@ Pairplot showing the relationships among principal components, colored by shape.
 For an interactive version, open:  
 ➡️ [Pairplot Interactive](https://bobovski66.github.io/NUFORC_Analysis/pairplot_interactive.html)
 
-)
+
 
 ---
 
