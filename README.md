@@ -115,6 +115,23 @@ For an interactive version, open:
 ➡️ [Pairplot Interactive](https://bobovski66.github.io/NUFORC_Analysis/pairplot_interactive.html)
 
 
+### Pairwise KDE of Principal Components by Shape
+![KDE of PC1 and PC2 by Shape](images/figure_13.png)
+
+- **Description**: The KDE (Kernel Density Estimation) plots illustrate the density distributions of **PC1 and PC2**, grouped by UFO shape.
+- **Conclusion**: Most sightings are clustered around **PC1 = 0** and **PC2 slightly negative**, suggesting that these principal components encode important structural differences between sightings but share a common center.
+- **Interactive Version**: [View KDE Contours](https://bobovski66.github.io/NUFORC_Analysis/interactive_kde_contours.html)
+
+---
+
+### PC1 vs PC2 Projection by Shape
+![PC1 vs PC2 by Shape](images/figure_12.png)
+
+- **Description**: A scatter plot of **PC1 vs PC2**, color-coded by reported shape.
+- **Conclusion**: The spread of sightings along **PC1** suggests variation in **geolocation or duration**, while **PC2** highlights distinct clusters—potentially tied to **time or shape characteristics**.
+- **Interactive Version**: [View PC1-PC2 Projection](https://bobovski66.github.io/NUFORC_Analysis/interactive_PC1PC2.html)
+
+
 
 ---
 
@@ -131,3 +148,9 @@ For an interactive version, open:
 
 ## Contributions
 Contributions are welcome! Feel free to open an issue or submit a pull request with improvements or new insights.
+
+
+
+
+
+
